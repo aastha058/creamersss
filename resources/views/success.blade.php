@@ -112,5 +112,6 @@
             <a href="{{ route('index') }}" class="btn-home">Back to Home</a>
         </div>
     </div>
+    <h1></h1>
 
 @endsection

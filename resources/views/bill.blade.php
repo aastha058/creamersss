@@ -140,7 +140,7 @@
     @endforeach
       </tbody>
     </table>
-
+ <h1></h1>
     <p class="grand-total text-end">Grand Total: ₹{{ number_format($cash->amount, 2) }}</p>
   </div>
 </body>

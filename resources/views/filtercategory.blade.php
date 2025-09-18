@@ -56,7 +56,7 @@
     </div>
 @empty
    <div class="col-12 text-center py-5">
-    <div class="p-4 border border-2 border-purple rounded-4 bg-light-purple shadow-sm d-inline-block">
+    <div class="p-4  border-2 border-purple rounded-4 bg-light-purple shadow-sm d-inline-block">
         <img src="https://cdn-icons-png.flaticon.com/512/4076/4076549.png" alt="Empty" width="80" class="mb-3 opacity-75">
         <h4 class="text-muted fw-semibold">This category is empty.</h4>
         <p class="text-secondary mb-3">We're whipping up something sweet. Please check back later!</p>

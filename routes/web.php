@@ -127,6 +127,7 @@ Route::middleware(['auth:employee'])->group(function () {
 
 
 });
+route::get("/aaa", [HomeController::class, "aaa"])->name("aaa");
 
 
 
